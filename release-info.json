@@ -1,0 +1,10 @@
+﻿{
+    "schema_version":  1,
+    "exported_at_utc":  "2026-09-28T12:09:18.1675727Z",
+    "source_repository":  "E:\\yolo-doc-analysis",
+    "source_commit":  "3c78940ff6e8aef996ddc24515a4a5d3153f0356",
+    "source_dirty":  true,
+    "model_version":  "r7",
+    "model_sha256":  "2fbbad3b81969beefb1ffd428a5bc89dd83beaa9238f262ce67f25a63e237f76",
+    "model_file":  "models/legal_notice_r7.pt"
+}

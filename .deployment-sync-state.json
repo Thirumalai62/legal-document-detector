@@ -1,0 +1,130 @@
+﻿{
+    "schema_version":  1,
+    "source_repository":  "E:\\yolo-doc-analysis",
+    "files":  [
+                  {
+                      "path":  ".gitattributes",
+                      "sha256":  "c166bb69f02379f207560b3c7d95af4536772f24c3474ee8bed2ef0058d32d16"
+                  },
+                  {
+                      "path":  ".gitignore",
+                      "sha256":  "8f05a127bdc84c643a2a8fcd1d9cd9eecaad7c92e1c3ef7afeb40b9afc3f74a7"
+                  },
+                  {
+                      "path":  "AGENTS.md",
+                      "sha256":  "c22fc74241290d5b5ee9ca141e999995c85eb98330533271552f9acbb4bd853a"
+                  },
+                  {
+                      "path":  "doc_detector/__init__.py",
+                      "sha256":  "0bccd29cb66008b2427ea47250afbb93f65c0bef8b6707d7b0762d4906fe0025"
+                  },
+                  {
+                      "path":  "doc_detector/detector.py",
+                      "sha256":  "b378ddca9cd5728187fca9ce6e73f5d6c684d48f8f0237acc655c4862704ba83"
+                  },
+                  {
+                      "path":  "doc_detector/errors.py",
+                      "sha256":  "fc293c15bbce72264b49d7f5c723f1bbe4440ed199d4a37001e3f348e4afba98"
+                  },
+                  {
+                      "path":  "doc_detector/outputs.py",
+                      "sha256":  "ac22bab0c8dff799f1d4ddea4f0edcb1c251daeb93027049affbbe02309f65a1"
+                  },
+                  {
+                      "path":  "doc_detector/pdf_input.py",
+                      "sha256":  "2c7a0454f7b0591b28a3549649e569742e015495e73dafc61686806d7fc85412"
+                  },
+                  {
+                      "path":  "Dockerfile.opensandbox",
+                      "sha256":  "eae08f10ea56333db951160ac62f3eaaac4f3d07fa82a96805cd72dae830ebb6"
+                  },
+                  {
+                      "path":  "Dockerfile.opensandbox.dockerignore",
+                      "sha256":  "4d04710ea8b2cbb20b0e9754eab6a04b009a14918552a9a29b9ff31fce576853"
+                  },
+                  {
+                      "path":  "docs/opensandbox-deployment.md",
+                      "sha256":  "e3ce99dff458afaf5ac6d98a3f4e70a1f83df0b56d6dc3ee71a865d6d66df1f2"
+                  },
+                  {
+                      "path":  "docs/validation.md",
+                      "sha256":  "6c50e6cbf3e1ed6487f5881acbfa9c13c4dd3231f9c0c4f8cde0f42810004eec"
+                  },
+                  {
+                      "path":  "examples/local_detection_task.py",
+                      "sha256":  "fc8bb95fd8c7888713c3007ada2b713005b8254c7bf7246b5de4384f08d31a4d"
+                  },
+                  {
+                      "path":  "examples/sandbox_detection_task.py",
+                      "sha256":  "8de40856e85e7aaa5c0eaf74b3ddf5c7fbe6ec6c9b820dd04add1efad643ccbd"
+                  },
+                  {
+                      "path":  "model-manifest.json",
+                      "sha256":  "6d4ba079d0d85d3698a4404e71fd0b9900e65d11fc33bb81848e9d5374ce8214"
+                  },
+                  {
+                      "path":  "models/legal_notice_r7.pt",
+                      "sha256":  "2fbbad3b81969beefb1ffd428a5bc89dd83beaa9238f262ce67f25a63e237f76"
+                  },
+                  {
+                      "path":  "README.md",
+                      "sha256":  "b571452c7245f03afac03e3ad99f432607267d60013f81995c36b403d381b436"
+                  },
+                  {
+                      "path":  "release-info.json",
+                      "sha256":  "ca26fd25a630e753732b42860e5063c30f1afd6eb89e3580683a47021ea54b92"
+                  },
+                  {
+                      "path":  "requirements-sandbox.in",
+                      "sha256":  "8c68201f3b1a4b2218bf6f2e5bbbf054e982ed04fde334fe4f175852a6b3fefb"
+                  },
+                  {
+                      "path":  "requirements-sandbox.lock",
+                      "sha256":  "977b5f621e0abdc188e30f3efc6538550b0fee5316e5ac31f74b21f7c4cdcd37"
+                  },
+                  {
+                      "path":  "scripts/build-opensandbox-image.ps1",
+                      "sha256":  "d604cca150ca5357021a722b310de26ec11a175ca3329080b93e6b5d97697285"
+                  },
+                  {
+                      "path":  "scripts/build-opensandbox-image.sh",
+                      "sha256":  "9f41d22654738fd82241b974a3bece22200b97a36dfd2dc8f1341991ebdac9d3"
+                  },
+                  {
+                      "path":  "scripts/run-local-detector.ps1",
+                      "sha256":  "926ad467c338ccb36798bbe2be7ac3bc56590b53218be1f70c1c22b35165778b"
+                  },
+                  {
+                      "path":  "scripts/run-local-detector.sh",
+                      "sha256":  "db178f46ffccfb1c2d363b8c10759db19f85bfc0fc4bdf450fa7c47f3fe938d3"
+                  },
+                  {
+                      "path":  "scripts/smoke-test-opensandbox-image.ps1",
+                      "sha256":  "2b3ee58ff110845550e43c4b9b4463176242f51605e238c95a6fb19ff05d84d1"
+                  },
+                  {
+                      "path":  "scripts/smoke-test-opensandbox-image.sh",
+                      "sha256":  "dd2e59b2159aadd34bfd1bd6b56c219723f775812ca21ede5d29b957beae730a"
+                  },
+                  {
+                      "path":  "tests/__init__.py",
+                      "sha256":  "d01dd2ab1962553afad3a378f258a65449c0be2816f6a5e982b1218316ed341d"
+                  },
+                  {
+                      "path":  "tests/test_detector_inputs.py",
+                      "sha256":  "fb55394580b014c61e75bda6acdcaa9c84b517e28aab77ea3e9242e2d72d03cc"
+                  },
+                  {
+                      "path":  "tests/test_detector_lifecycle.py",
+                      "sha256":  "b844386a6d3167140263d12c28c145c6defa91136da093f87b8be9877bae8d5d"
+                  },
+                  {
+                      "path":  "tests/test_detector_outputs.py",
+                      "sha256":  "a1c8e8a92ce9b0e7d13202c6a3997e6ef4bc22dc867008b40edb9cc094c5001f"
+                  },
+                  {
+                      "path":  "tests/test_runtime_boundaries.py",
+                      "sha256":  "7f3ca9b7cf59398b2617ccf38a4f9f8ad5e67ae88838ce42e3dabc2024c8fdd2"
+                  }
+              ]
+}
