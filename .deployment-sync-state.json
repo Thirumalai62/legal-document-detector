@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "AGENTS.md",
-                      "sha256":  "c22fc74241290d5b5ee9ca141e999995c85eb98330533271552f9acbb4bd853a"
+                      "sha256":  "2647e5179472f97f05cb36d99c6c45a4662067d9e00e2ad948271187dcc7f1fd"
                   },
                   {
                       "path":  "doc_detector/__init__.py",
@@ -36,19 +36,23 @@
                   },
                   {
                       "path":  "Dockerfile.opensandbox",
-                      "sha256":  "eae08f10ea56333db951160ac62f3eaaac4f3d07fa82a96805cd72dae830ebb6"
+                      "sha256":  "be0a3487c3b8722daf5e927f48eb9be0cb1b4733379a06f443e503bafbc14d61"
                   },
                   {
                       "path":  "Dockerfile.opensandbox.dockerignore",
-                      "sha256":  "4d04710ea8b2cbb20b0e9754eab6a04b009a14918552a9a29b9ff31fce576853"
+                      "sha256":  "8ab5e83e12b0a0ae2b374c3fd9bbb6dbdc50605010cfd2530c2eceb585b40c4a"
+                  },
+                  {
+                      "path":  "Dockerfile.opensandbox.full",
+                      "sha256":  "eae08f10ea56333db951160ac62f3eaaac4f3d07fa82a96805cd72dae830ebb6"
                   },
                   {
                       "path":  "docs/opensandbox-deployment.md",
-                      "sha256":  "e3ce99dff458afaf5ac6d98a3f4e70a1f83df0b56d6dc3ee71a865d6d66df1f2"
+                      "sha256":  "b591437b196c1ae3c65717f6d3bd691c7846b6fa128f17febddf035e7ab6129c"
                   },
                   {
                       "path":  "docs/validation.md",
-                      "sha256":  "6c50e6cbf3e1ed6487f5881acbfa9c13c4dd3231f9c0c4f8cde0f42810004eec"
+                      "sha256":  "f8ebc74d306fef8510f9de8a3acbaefbc69cc9caeb96b36b85520957a2ae3ee9"
                   },
                   {
                       "path":  "examples/local_detection_task.py",
@@ -68,11 +72,19 @@
                   },
                   {
                       "path":  "README.md",
-                      "sha256":  "b571452c7245f03afac03e3ad99f432607267d60013f81995c36b403d381b436"
+                      "sha256":  "b24c5fee2557fa12a8c4fe1107cbbb5dfb8eb02e6628d094be6bd33ea4f171ee"
                   },
                   {
                       "path":  "release-info.json",
-                      "sha256":  "ca26fd25a630e753732b42860e5063c30f1afd6eb89e3580683a47021ea54b92"
+                      "sha256":  "00ed9028a4371f1444f76f05367fa9743cf31f8e79912908ebb7763156cbf558"
+                  },
+                  {
+                      "path":  "requirements-code-interpreter.in",
+                      "sha256":  "b2d71e9f4642945459624cec35733574a4e4d26db59ce0f227b6759fae98e0b6"
+                  },
+                  {
+                      "path":  "requirements-code-interpreter.lock",
+                      "sha256":  "f58090dc4dd1b22f838b6df1c8992c07c195fa3f755f02a44ca8474e7bddde36"
                   },
                   {
                       "path":  "requirements-sandbox.in",
@@ -84,11 +96,19 @@
                   },
                   {
                       "path":  "scripts/build-opensandbox-image.ps1",
-                      "sha256":  "d604cca150ca5357021a722b310de26ec11a175ca3329080b93e6b5d97697285"
+                      "sha256":  "0c301dca633919cc70d997c04583f170e8150ac8b6497bb7cb67859d61c17f24"
                   },
                   {
                       "path":  "scripts/build-opensandbox-image.sh",
-                      "sha256":  "9f41d22654738fd82241b974a3bece22200b97a36dfd2dc8f1341991ebdac9d3"
+                      "sha256":  "dbcf494fdc1f3b3e80e688a0c60433be9dcb977052e19c71068948230a145bad"
+                  },
+                  {
+                      "path":  "scripts/code-interpreter.sh",
+                      "sha256":  "4e48ab37e5853d9fe975ea4b3ffa9e35c5d4bf89dbebdabe48f264e3716d5966"
+                  },
+                  {
+                      "path":  "scripts/code-interpreter-env.sh",
+                      "sha256":  "b9ef2db73d53d451f880427c4b170ed5825a67a32e10dae39ecfbb5a0e5b4658"
                   },
                   {
                       "path":  "scripts/run-local-detector.ps1",
@@ -109,6 +129,10 @@
                   {
                       "path":  "tests/__init__.py",
                       "sha256":  "d01dd2ab1962553afad3a378f258a65449c0be2816f6a5e982b1218316ed341d"
+                  },
+                  {
+                      "path":  "tests/smoke_test_code_interpreter.py",
+                      "sha256":  "e51c07faf66faf47d683cbcc33d9cb3dcdf432eecc4496dccff63f440fd2a5d4"
                   },
                   {
                       "path":  "tests/test_detector_inputs.py",

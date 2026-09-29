@@ -1,8 +1,8 @@
 ﻿{
     "schema_version":  1,
-    "exported_at_utc":  "2026-09-28T12:09:18.1675727Z",
+    "exported_at_utc":  "2026-09-29T06:47:50.8789831Z",
     "source_repository":  "E:\\yolo-doc-analysis",
-    "source_commit":  "3c78940ff6e8aef996ddc24515a4a5d3153f0356",
+    "source_commit":  "96d4932782763e940e085a77d4e31628c26d7196",
     "source_dirty":  true,
     "model_version":  "r7",
     "model_sha256":  "2fbbad3b81969beefb1ffd428a5bc89dd83beaa9238f262ce67f25a63e237f76",
